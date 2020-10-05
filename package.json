@@ -2,6 +2,9 @@
   "name": "touch",
   "version": "1.0.0",
   "description": "mern",
+  "engines": {
+    "node": "12.x"
+  },
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
