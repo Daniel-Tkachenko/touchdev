@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+.prsUserMenuLiAImg{
+    width: 16px;
+    display: block;
+    margin-right: 14px;
+}
+.prsUserMenuLiA{
+    display: inline-flex;
+    align-items: center;
+    align-content: center;
+    font-weight: 500;
+    font-size: 13px;
+    color: #334D6E;
+    line-height: 19px;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+}
+.prsUserMenuLiA.current{
+    color: #20CE99;
+}
+.prsUserMenuLi{
+    padding: 11px 0;
+}

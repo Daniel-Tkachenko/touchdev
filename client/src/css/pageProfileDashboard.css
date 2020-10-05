@@ -1,0 +1,8 @@
+.profilePageDashboard{
+    background: #F5F6F8;
+    width: 100%;
+}
+.profilePageBody{
+    width: 100%;
+    display: flex;
+}
